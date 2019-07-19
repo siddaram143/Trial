@@ -24,6 +24,6 @@ int main()
        c = a + b;
 
        printf("Sum of the numbers = %d\n", c);
-	// result
+
        return 0;
     }
